@@ -31,6 +31,7 @@ header {
 }
 
 h1 {
+	color: rgb(61,98,165);
 	text-shadow: 1px 1px 1px #6b6b6b;
 	filter: dropshadow(color=#6b6b6b, offx=1, offy=1);
 }
